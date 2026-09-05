@@ -1,5 +1,10 @@
+/* AI assistance: Yes, I did use AI assistance to help with this assignment. 
+I used AI to help review on arrays. It has been a while since last coding
+so, a short helpful review with knowledge check along the way was very beneficial.
+However, at no point did I copy any code while using artificial intelligence */
 
 import java.util.Scanner;
+
 /*
 PF III: Assignment 1
 Implement a menu based program with the following array-based list functions:
